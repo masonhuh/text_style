@@ -1,0 +1,30 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+span {
+    color: aqua;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+h3 {
+    color: black;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+    font-weight: lighter;
+}
+
+.sans-serif {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#white {
+    color: white;
+}
